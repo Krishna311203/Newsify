@@ -1,2 +1,2 @@
 # Newsify
-News app based on API call.
+News app 
